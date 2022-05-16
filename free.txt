@@ -1,0 +1,12 @@
+idle
+pet
+talent
+rookie
+welcome
+energy
+vault
+aisle
+derive
+hunt
+protect
+economy
